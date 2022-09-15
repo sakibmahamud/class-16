@@ -1,0 +1,119 @@
+
+
+
+header{
+    background-color: #0f1d45;
+    padding: 15px 0;
+}
+
+.header-logo a img{
+    width: 100px;
+}
+
+nav ul{
+    text-align: center;
+    margin-bottom: 0;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    line-height: 60px;
+    padding: 0 20px;
+    transition: all .5s ease;
+}
+nav ul li a:hover{
+    color: orange;
+}
+/* banner section start */
+.banner{
+    color: #fff;
+    background-image: url(https://i.ibb.co/2Zvy2gn/intro-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 220px 0 250px 0;
+    
+}
+
+/* banner section end */
+/* slider section start */
+.slider{
+    background-color: #bbc2f1;
+    padding: 50px 0 60px;
+}
+
+.h1 {
+    padding: 30px 0;
+    font-weight: 400;
+}
+.image h4{
+    margin-top: 10px;
+}
+/* slider section end */
+
+
+/* About section start */
+.about{
+    background-color: #c1d6e8;
+    padding: 70px;
+}
+.us{
+    padding-bottom: 30px;
+}
+
+.three{
+    font-size: 20px;
+}
+/* About section end */
+/* contact  section start */
+.contact{
+    background-color: #f3f1ee;
+    padding: 70px 0;
+}
+
+/* contact  section end */
+/* footer section start */
+.footer{
+    background-color: #0063ce;
+    text-align: center;
+    padding: 18px 0;
+    color: #fff;
+}
+.copy p{
+    color: #fff;
+
+}
+/* footer section end */
+/* video assignment start */
+.center{
+    text-align: center;
+    margin: 30px 0 100px 0;
+
+}
+
+.video{
+    border: 2px solid rgb(234, 20, 20);
+    padding: 10px;
+    background-color: red;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    transition: .5s;
+    
+}
+
+.video:hover{
+    border: 2px solid orange;
+    padding: 10px;
+    background-color: yellow;
+    color: rgb(51, 255, 0);
+    border-radius: 10px;
+    text-decoration: none;
+}
+/* video assignment end */
